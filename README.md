@@ -2,7 +2,7 @@
 ## Step 1
 ### Clone the project's repository
 ```bash
-git clone https://github.com/IT3R4/envoy-web-app.git
+git clone https://github.com/ipetersenpai/Project101.git
 ```
 ## Step 2
 ### Go to the project's directory
